@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 // flagがfalseの時
                 else {
-                    textView.setText("nonchan");
+                    textView.setText("popo");
                     flag = true;
                 }
             }
